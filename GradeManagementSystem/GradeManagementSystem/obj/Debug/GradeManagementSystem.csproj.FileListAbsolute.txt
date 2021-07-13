@@ -1,0 +1,29 @@
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\bin\Debug\GradeManagementSystem.exe.config
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\bin\Debug\GradeManagementSystem.exe
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\bin\Debug\GradeManagementSystem.pdb
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.csprojAssemblyReference.cache
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormAdmin.resources
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormLogin.resources
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormStudent.resources
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormTeacher.resources
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.Properties.Resources.resources
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.csproj.GenerateResource.cache
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.exe
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.pdb
+C:\Users\AJ\source\repos\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormResult.resources
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\bin\Debug\GradeManagementSystem.exe.config
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.exe
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.pdb
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\bin\Debug\GradeManagementSystem.exe
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\bin\Debug\GradeManagementSystem.pdb
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormAdmin.resources
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormLogin.resources
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormResult.resources
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormStudent.resources
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormTeacher.resources
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.Properties.Resources.resources
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormTeacherRegistration.resources
+C:\Users\Tuku\Desktop\Asif Vai\GradeManagementSystem\GradeManagementSystem\obj\Debug\GradeManagementSystem.FormResultUpdate.resources
